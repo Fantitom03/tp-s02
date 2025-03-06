@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .text-shadow-glow {
+    text-shadow: 0 0 8px rgba(74, 222, 128, 0.5);
+  }
+  
+  .shadow-neon-glow {
+    box-shadow: 0 0 15px rgba(74, 222, 128, 0.3);
+  }
+  
+  .font-netflix {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+}
+
+@layer components {
+  .bg-netflix-black {
+    background-color: #141414;
+  }
+  
+  .text-neon-green {
+    color: #4ADE80;
+  }
+  
+  .border-neon-green {
+    border-color: #4ADE80;
+  }
+  
+  .bg-neon-green {
+    background-color: #4ADE80;
+  }
+}

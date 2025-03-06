@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Dune: Part Two",
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Oppenheimer",
+    "img": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Poor Things",
+    "img": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
+  },
+  {
+    "id": 4,
+    "name": "The Batman",
+    "img": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/seyWFgGInaLqW7nOZvu0ZC95rtx.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Everything Everywhere All At Once",
+    "img": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mad Max: Fury Road",
+    "img": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Blade Runner 2049",
+    "img": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Parasite",
+    "img": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Joker",
+    "img": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Sonic the Hedgehog 3",
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg"
+  },
+  {
+    "id": 11,
+    "name": "The Green Knight",
+    "img": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Midsommar",
+    "img": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Nope",
+    "img": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Mufasa: The Lion King",
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lurEK87kukWNaHd0zYnsi3yzJrs.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Captain America: Brave New World",
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Venom: The Last Dance",
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Terrifier 3",
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ju10W5gl3PPK3b7TjEmVOZap51I.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Conclave",
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg"
+  }
+]
